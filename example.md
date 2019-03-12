@@ -1,5 +1,5 @@
 # Misinfosec Reading List
-##Table of Contents
+## Table of Contents
  * [Introduction]()
  * [References to sort through]()
  * [Misinfosec articles]()
@@ -20,7 +20,7 @@
  * [Tools]()
 
 
-##Introduction <a name="introduction"></a>
+## Introduction <a name="introduction"></a>
         This reading list is designed to get you up to speed on current work on misinfosec:
         the intersection between information security and misinformation.  It also includes
         references to help information security people understand misinformation mechanisms,
