@@ -1,11 +1,29 @@
-An h1 header
-============
+# Misinfosec Reading List
+##Table of Contents
+ * [Introduction]()
+ * [References to sort through]()
+ * [Misinfosec articles]()
+ * [Contributing Fields]()
+ * [Infosec basics]()
+ * [Information operations basics]()
+ * [Misinformation basics]()
+ * [Attacks and Actors]()
+   * [Nationstate online information ops - general references]()
+   * [Russia]()
+   * [China / Asia]()
+   * [Middle East]()
+   * [Americas / Others]()
+   * [Unsorted]()
+   * [Fakenews sites]()
+   * [Trackers]()
+ * [Books]()
+ * [Tools]()
 
-Paragraphs are separated by a blank line.
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+##Introduction <a name="introduction"></a>
+        This reading list is designed to get you up to speed on current work on misinfosec:
+        the intersection between information security and misinformation.  It also includes
+        references to help information security people understand misinformation mechanisms,
+        and misinformation people understand information security frameworks and practice.
 
-  * this one
-  * that one
-  * the other one
+Lorum Ipsum
