@@ -44,15 +44,15 @@ Put ‘em here!
 
 ## Misinfosec articles <a name="misinfosec-articles"></a>
  * Uni Arkansas group (Nitin Agrawal etc):
-   * [Zotero \| Groups > Misinformation + Social cyber security]<https://www.zotero.org/groups/2156710/misinformation__social_cyber_security>
+   * [Zotero \| Groups > Misinformation + Social cyber security](https://www.zotero.org/groups/2156710/misinformation__social_cyber_security)
  * Stanford (Herb Lin):
    * <https://cisac.fsi.stanford.edu/people/herbert_lin>
-   * <Developing Responses to Cyber-Enabled Information Warfare and Influence Operations>(https://www.lawfareblog.com/developing-responses-cyber-enabled-information-warfare-and-influence-operations)
-   * [https://www.politico.com/newsletters/morning-cybersecurity/2018/12/18/the-interplay-between-russian-disinformation-and-hacking-459226]
+   * [Developing Responses to Cyber-Enabled Information Warfare and Influence Operations](https://www.lawfareblog.com/developing-responses-cyber-enabled-information-warfare-and-influence-operations)
+   * <https://www.politico.com/newsletters/morning-cybersecurity/2018/12/18/the-interplay-between-russian-disinformation-and-hacking-459226>
  * FireEye (Lee Foster)
-    * [https://www.reuters.com/article/us-usa-iran-facebook-exclusive/exclusive-iran-based-political-influence-operation-bigger-persistent-global-idUSKCN1LD2R9]
-    * [https://www.fireeye.com/content/fireeye-summit/en_US/learn/tracks.html#executive-8]
-    * [https://www.fireeye.com/blog/executive-perspective/2018/03/disinformation-through-fabricated-news-sites.html]
+    * <https://www.reuters.com/article/us-usa-iran-facebook-exclusive/exclusive-iran-based-political-influence-operation-bigger-persistent-global-idUSKCN1LD2R9>
+    * <https://www.fireeye.com/content/fireeye-summit/en_US/learn/tracks.html#executive-8>
+    * <https://www.fireeye.com/blog/executive-perspective/2018/03/disinformation-through-fabricated-news-sites.html>
  * Tim
     * [adversarial social media tactics](https://medium.com/@timboucher/adversarial-social-media-tactics-e8e9857fede4), Medium 
     * [Red Team Playbook](https://paper.dropbox.com/doc/Red-Team-Playbook-jNrh55XeRsZLg8ltmSA5q) – Dropbox Paper
@@ -64,23 +64,23 @@ Put ‘em here!
     * [fakenews as an information security problem](https://www.forbes.com/sites/forbestechcouncil/2018/05/21/fakenews-as-an-information-security-problem/), Forbes
     * [#FakeNews as an Information Security Problem - YouTube](https://www.youtube.com/watch?v=zAibdueUxkg&amp=&feature=youtu.be)
  * KIAM (Alexander Petrov)
-    * [Researchers offer new information warfare model | EurekAlert! Science News](https://www.eurekalert.org/pub_releases/2017-11/miop-ron110917.php)
-    * [https://www.researchgate.net/profile/Alexander_Petrov24]
+    * [Researchers offer new information warfare model \| EurekAlert! Science News](https://www.eurekalert.org/pub_releases/2017-11/miop-ron110917.php)
+    * <https://www.researchgate.net/profile/Alexander_Petrov24>
  * Others
     * [Defending the Indefensible: A New Strategy for Stopping Information Operations - War on the Rocks (Daniel Gordon, DoD)](https://warontherocks.com/2018/05/defending-the-indefensible-a-new-strategy-for-stopping-information-operations/)
-    * [https://blog.comae.io/lessons-in-cyber-influence-operations-33da4769f0c2] <- Grugq weighs in on where this fits in ‘cyber’.
-    * [https://www.youtube.com/watch?v=E3vOvWvivdg] Identifying IO infrastructure, Kyle Ehmke, ThreatConnect (Cyberwarcon)
-    * [https://www.lawfareblog.com/cybersecurity-time-new-definition] (Susan Landau, Fletcher/Tufts)
+    * <https://blog.comae.io/lessons-in-cyber-influence-operations-33da4769f0c2> <- Grugq weighs in on where this fits in ‘cyber’.
+    * <https://www.youtube.com/watch?v=E3vOvWvivdg> Identifying IO infrastructure, Kyle Ehmke, ThreatConnect (Cyberwarcon)
+    * <https://www.lawfareblog.com/cybersecurity-time-new-definition> (Susan Landau, Fletcher/Tufts)
     * [Data-Driven Propaganda as a Subset of Adversarial Examples](https://medium.com/reformermag/data-driven-propaganda-as-a-subset-of-adversarial-examples-a65de415fe63) (Matt Brockman - worth watching)
     * [Disinformation Campaigns vs. Attribution Claims (Mark Kehr, Shmoocon ‘17)](https://www.youtube.com/watch?v=Quj10A4JmXQ)
     * [The New Information Warfare](https://theintercept.com/2017/11/25/information-warfare-social-media-book-review-gaza/)
-    * [Information Operations are a Cybersecurity Problem: Toward a New Strategic Paradigm to Combat Disinformation | Just Security - New Knowledge](https://www.justsecurity.org/59152/information-operations-cybersecurity-problem-strategic-paradigm-combat-disinformation/)
-    * [https://www.youtube.com/channel/UCBMhGVkkEWSovOTz0Z79kPg] <- CyberWarCon talks; some on misinfo
+    * [Information Operations are a Cybersecurity Problem: Toward a New Strategic Paradigm to Combat Disinformation \| Just Security - New Knowledge](https://www.justsecurity.org/59152/information-operations-cybersecurity-problem-strategic-paradigm-combat-disinformation/)
+    * <https://www.youtube.com/channel/UCBMhGVkkEWSovOTz0Z79kPg> <- CyberWarCon talks; some on misinfo
     * [The Gentleperson's Guide To Forum Spies](https://cryptome.org/2012/07/gent-forum-spies.htm)
-    * [https://www.justsecurity.org/61265/psy-ops-meet-cyber-ops-u-s-takes-russian-trolls/] - US takes it to the trolls
-    * [https://www.justice.gov/ag/page/file/1076696/download] <- justice department, inc tactics
-    * [https://www.belfercenter.org/sites/default/files/files/publication/PAE%20Mansted%20-%20web.pdf] - Harvard Kennedy thesis, inc tactics
-    * [https://arxiv.org/pdf/1810.11063.pdf] - ambient tactical deception
+    * <https://www.justsecurity.org/61265/psy-ops-meet-cyber-ops-u-s-takes-russian-trolls/> - US takes it to the trolls
+    * <https://www.justice.gov/ag/page/file/1076696/download> <- justice department, inc tactics
+    * <https://www.belfercenter.org/sites/default/files/files/publication/PAE%20Mansted%20-%20web.pdf> - Harvard Kennedy thesis, inc tactics
+    * <https://arxiv.org/pdf/1810.11063.pdf> - ambient tactical deception
 
 
 ## Contributing Fields  <a name="contributing-fields"></a>
@@ -88,69 +88,69 @@ Put ‘em here!
 Frameworks
  * [Defend Your Data Now with the MITRE ATT&CK Framework - YouTube](https://www.youtube.com/watch?v=io4vCTBLa78)
  * [ATT&CK Matrix - ATT&CK for Enterprise](https://attack.mitre.org/wiki/ATT&CK_Matrix)
- * [https://www.mitre.org/attackcon] - presentations etc.
- * Tactics, Techniques and Procedures: [https://azeria-labs.com/tactics-techniques-and-procedures-ttps/]
+ * <https://www.mitre.org/attackcon> - presentations etc.
+ * Tactics, Techniques and Procedures: <https://azeria-labs.com/tactics-techniques-and-procedures-ttps/>
 
 Others
  * [Threat Hunting: 10 Adversary Behaviors to Hunt For](https://www.linkedin.com/pulse/threat-hunting-10-adversary-behaviors-hunt-ely-kahn/)
 
 ### Information operations basics <a name="io-basics"></a>
- * Apocalypse, Revolution and Terrorism: [https://www.routledge.com/Apocalypse-Revolution-and-Terrorism-From-the-Sicari-to-the-American-Revolt/Kaplan/p/book/9781138483651]
- * [https://twq.elliott.gwu.edu/sites/g/files/zaxdzs2121/f/downloads/Winter%202019_Brands.pdf]
+ * Apocalypse, Revolution and Terrorism: <https://www.routledge.com/Apocalypse-Revolution-and-Terrorism-From-the-Sicari-to-the-American-Revolt/Kaplan/p/book/9781138483651>
+ * <https://twq.elliott.gwu.edu/sites/g/files/zaxdzs2121/f/downloads/Winter%202019_Brands.pdf>
 
 ### Misinformation basics <a name="misinfo-basics"></a>
 Misinformation Attacks
- * Developing Responses to Cyber-Enabled Information Warfare and Influence Operations [https://www.lawfareblog.com/developing-responses-cyber-enabled-information-warfare-and-influence-operations]
- * Fake News: A Survey of Research, Detection Methods, and Opportunities [https://arxiv.org/pdf/1812.00315.pdf]
- * How France beat back information manipulation (and how other democracies might do the same) [http://www.niemanlab.org/2018/09/how-france-beat-back-information-manipulation-and-how-other-democracies-might-do-the-same/] - includes counters
- * Hackers Came, but the French Were Prepared [https://www.nytimes.com/2017/05/09/world/europe/hackers-came-but-the-french-were-prepared.html]
- * Sara-Jayne's github directory: [https://github.com/bodacea/misinfolinks]
- * Memes vs brown haze: [https://www.cjr.org/innovations/memes-pollution-censorship-china-beijing.php]
+ * Developing Responses to Cyber-Enabled Information Warfare and Influence Operations <https://www.lawfareblog.com/developing-responses-cyber-enabled-information-warfare-and-influence-operations>
+ * Fake News: A Survey of Research, Detection Methods, and Opportunities <https://arxiv.org/pdf/1812.00315.pdf>
+ * How France beat back information manipulation (and how other democracies might do the same) <http://www.niemanlab.org/2018/09/how-france-beat-back-information-manipulation-and-how-other-democracies-might-do-the-same/> - includes counters
+ * Hackers Came, but the French Were Prepared <https://www.nytimes.com/2017/05/09/world/europe/hackers-came-but-the-french-were-prepared.html>
+ * Sara-Jayne's github directory: <https://github.com/bodacea/misinfolinks>
+ * Memes vs brown haze: <https://www.cjr.org/innovations/memes-pollution-censorship-china-beijing.php>
 
 The four Ds (distort, distract, dismay, dismiss):
- * [https://www.stopfake.org/en/anatomy-of-an-info-war-how-russia-s-propaganda-machine-works-and-how-to-counter-it/]
- * [https://www.motherjones.com/politics/2016/11/trump-russia-kremlin-propaganda-tactics/]
+ * <https://www.stopfake.org/en/anatomy-of-an-info-war-how-russia-s-propaganda-machine-works-and-how-to-counter-it/>
+ * <https://www.motherjones.com/politics/2016/11/trump-russia-kremlin-propaganda-tactics/>
 
 Propagation:
- * [https://www.pheme.eu/publications/]
+ * <https://www.pheme.eu/publications/>
 
 DIY offensive misinformation attacks:
- * Buying aged accounts:  [https://medium.com/dfrlab/influence-for-sale-bot-shopping-on-the-darknet-1c9ddfb3d8e6] and [https://www.buzzfeednews.com/article/charliewarzel/heres-how-easy-it-is-to-buy-fake-facebook-profiles#.wp3NBOlxO]
- * 2014 GCHQ and forum stuff: [https://cryptome.org/2012/07/gent-forum-spies.htm]
- * [https://8ch.net/qresearch/res/1618616.html] <- yeah, be careful with this one… 
- * [https://www.pastemagazine.com/articles/2017/06/how-the-trump-russia-data-machine-games-google-to.html]
- * [https://www.dailykos.com/stories/2011/02/16/945768/-UPDATED:-The-HB-Gary-Email-That-Should-Concern-Us-All](https://www.dailykos.com/stories/2011/02/16/945768/-UPDATED:-The-HB-Gary-Email-That-Should-Concern-Us-All) OMG I forgot I had this one
- * [https://blog.comae.io/lessons-in-cyber-influence-operations-33da4769f0c2] <- Grugq weighs in on where this fits in ‘cyber'.
- * [https://twitter.com/donie/status/957246815056908288] <- classic "two events, one place" tactic
- * [https://www.poynter.org/fact-checking/2018/meet-the-next-misinformation-format-fake-audio-messages/] <- my money's on this as a hard format to track (is a good thing millenials hate audio…)
- * [https://botwiki.org/resources/] and [https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4] <- I'm not sure what I'm doing here any more, so I added this in as an "anyone can build this stuff" link
- * I'm losing it here, but finding some old friends, like these cold war Russian references [https://www.reddit.com/r/politics/comments/9yuoir/im_a_reporter_for_nbc_news_we_realized_russias/]
- * BTW if you want to go all mathsy, human populations do things that look very much like LSTMS deep neural networks: [https://www.eurekalert.org/pub_releases/2017-11/miop-ron110917.php]
+ * Buying aged accounts:  <https://medium.com/dfrlab/influence-for-sale-bot-shopping-on-the-darknet-1c9ddfb3d8e6> and <https://www.buzzfeednews.com/article/charliewarzel/heres-how-easy-it-is-to-buy-fake-facebook-profiles#.wp3NBOlxO>
+ * 2014 GCHQ and forum stuff: <https://cryptome.org/2012/07/gent-forum-spies.htm>
+ * <https://8ch.net/qresearch/res/1618616.html> <- yeah, be careful with this one… 
+ * <https://www.pastemagazine.com/articles/2017/06/how-the-trump-russia-data-machine-games-google-to.html>
+ * <https://www.dailykos.com/stories/2011/02/16/945768/-UPDATED:-The-HB-Gary-Email-That-Should-Concern-Us-All> OMG I forgot I had this one
+ * <https://blog.comae.io/lessons-in-cyber-influence-operations-33da4769f0c2> <- Grugq weighs in on where this fits in ‘cyber'.
+ * <https://twitter.com/donie/status/957246815056908288> <- classic "two events, one place" tactic
+ * <https://www.poynter.org/fact-checking/2018/meet-the-next-misinformation-format-fake-audio-messages/> <- my money's on this as a hard format to track (is a good thing millenials hate audio…)
+ * <https://botwiki.org/resources/> and <https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4> <- I'm not sure what I'm doing here any more, so I added this in as an "anyone can build this stuff" link
+ * I'm losing it here, but finding some old friends, like these cold war Russian references <https://www.reddit.com/r/politics/comments/9yuoir/im_a_reporter_for_nbc_news_we_realized_russias/>
+ * BTW if you want to go all mathsy, human populations do things that look very much like LSTMS deep neural networks: <https://www.eurekalert.org/pub_releases/2017-11/miop-ron110917.php>
     
 ## Attacks and Actors <a name="aaa"></a>
 ### Nationstate online information ops - general references <a name="aaa-nationstate"></a>
  * [Information Attacks against Democracies - Schneier on Security](https://www.schneier.com/blog/archives/2018/11/information_att.html?fbclid=IwAR3l6zYAWUmzdkPwWbX6Kl-mbKPRG2gS25E5sSch_5celRUHfEaNTGerIRU)
- * [A guide to anti-misinformation actions around the world | Poynter](https://www.poynter.org/news/guide-anti-misinformation-actions-around-world)
- * [https://www.stratcomcoe.org/government-responses-malicious-use-social-media]
+ * [A guide to anti-misinformation actions around the world \| Poynter](https://www.poynter.org/news/guide-anti-misinformation-actions-around-world)
+ * <https://www.stratcomcoe.org/government-responses-malicious-use-social-media>
  * [#ElectionWatch: Beyond Russian Impact – DFRLab – Medium](https://medium.com/dfrlab/electionwatch-beyond-russian-impact-2f5777677cc0)
  * [Who let the trolls out? Researchers investigate state-sponsored trolls](https://techxplore.com/news/2018-11-trolls-state-sponsored.html?fbclid=IwAR3PW10-HZQaLG4bufc8lX-BgmJyeFK-WViKmh6fc7lAx1gcHYWUkf_gBLg)
  * [The Hacking Wars Are Going to Get Much Worse - The New York Times](https://www.nytimes.com/2017/07/31/opinion/hacking-qatar-emirates.html)
- * [Thirty countries use 'armies of opinion shapers' to manipulate democracy – report | Technology | The Guardian](https://www.theguardian.com/technology/2017/nov/14/social-media-influence-election-countries-armies-of-opinion-shapers-manipulate-democracy-fake-news?CMP=share_btn_fb)
- * [Countermeasures to a Real Threat: Thoughts in a Dire Time | SIGNAL Magazine](https://www.afcea.org/content/countermeasures-real-threat-thoughts-dire-time)
- * [Episode 124: The Twitter Accounts Pushing French Protests. Also: social engineering the Software Supply Chain | The Security Ledger](https://securityledger.com/2018/12/episode-124-the-twitter-accounts-pushing-french-protests-and-social-engineering-the-software-supply-chain/?fbclid=IwAR21ra-CQL-_wSn8rk-lXv5G8xmmLPKVBH4bdWBEY8aiHPlMzw2QD7HCQYA)
+ * [Thirty countries use 'armies of opinion shapers' to manipulate democracy – report \| Technology \| The Guardian](https://www.theguardian.com/technology/2017/nov/14/social-media-influence-election-countries-armies-of-opinion-shapers-manipulate-democracy-fake-news?CMP=share_btn_fb)
+ * [Countermeasures to a Real Threat: Thoughts in a Dire Time \| SIGNAL Magazine](https://www.afcea.org/content/countermeasures-real-threat-thoughts-dire-time)
+ * [Episode 124: The Twitter Accounts Pushing French Protests. Also: social engineering the Software Supply Chain \| The Security Ledger](https://securityledger.com/2018/12/episode-124-the-twitter-accounts-pushing-french-protests-and-social-engineering-the-software-supply-chain/?fbclid=IwAR21ra-CQL-_wSn8rk-lXv5G8xmmLPKVBH4bdWBEY8aiHPlMzw2QD7HCQYA)
  * [Lessons in Cyber: Influence Operations – Comae Technologies](https://blog.comae.io/lessons-in-cyber-influence-operations-33da4769f0c2)
  * [divisive events and groups](https://paper.dropbox.com/doc/Divisive-events-and-groups-notes-PqEMjQhCWBz7XsJX9HRDU?bmnt=AAAbiqhvSUa2WcukxkkSiYDFxVIkj8Lgxb0&eid=1gg93YTFuDOMAmeII7I6Szn1fk87YONswUDR6gwkhzK6T6kqdM5z&email=sara.farmer%2540btinternet.com)
  * [Government Inquiries - Fake News and Disinformation - Google Sheets](https://docs.google.com/spreadsheets/d/10fVduoazYMiyNBE4Y9_SI7eHPQM9t7XAvPMyb86CAnk/edit%23gid=0)
  * [MI6 'C' speech on fourth generation espionage - GOV.UK](https://www.gov.uk/government/speeches/mi6-c-speech-on-fourth-generation-espionage?utm_source=3614f526-5777-4311-a05d-a12414284498&utm_medium=email&utm_campaign=govuk-notifications&utm_content=immediate)
- * [https://www.nato-pa.int/document/2018-countering-russias-hybrid-threats-jopling-report-166-cds-18-e]
- * [https://comprop.oii.ox.ac.uk/research/cybertroops2018/] OII paper "a global inventory of organised social media manipulation"
+ * <https://www.nato-pa.int/document/2018-countering-russias-hybrid-threats-jopling-report-166-cds-18-e>
+ * <https://comprop.oii.ox.ac.uk/research/cybertroops2018/> OII paper "a global inventory of organised social media manipulation"
 
 ### Russia <a name="aaa-russia"></a>
  * [A First Glimpse through the Data Window onto the Internet Research Agency's Twitter Operations](https://medium.com/@katestarbird/a-first-glimpse-through-the-data-window-onto-the-internet-research-agencys-twitter-operations-d4f0eea3f566)
  * [I'm a reporter for NBC News. We realized Russia's disinformation playbook is hiding in plain sight -- so we made a documentary to tell everyone about it. AMA : politics](https://www.reddit.com/r/politics/comments/9yuoir/im_a_reporter_for_nbc_news_we_realized_russias/)
  * [Factory of lies: Russia's disinformation playbook exposed](https://www.nbcnews.com/business/consumer/factory-lies-russia-s-disinformation-playbook-exposed-n910316)
  * [Anatomy of an Info-War: How Russia's Propaganda Machine Works, and How to Counter It](https://www.stopfake.org/en/anatomy-of-an-info-war-how-russia-s-propaganda-machine-works-and-how-to-counter-it/)
- * [The West Is Pushing Back on Kremlin Lies-Without America | Observer](http://observer.com/2017/05/stratcom-2017-prague-vladimir-putin-disinformation/)
+ * [The West Is Pushing Back on Kremlin Lies-Without America \| Observer](http://observer.com/2017/05/stratcom-2017-prague-vladimir-putin-disinformation/)
  * [What if Russian voter hacks were just part of its Facebook ad campaign?](https://www.engadget.com/2017/10/06/russian-voter-hacks-support-facebook-ad-campaign/)
  * [How the Trump-Russia Data Machine Games Google to Fool Americans :: Politics :: Features :: Fake News :: Paste](https://www.pastemagazine.com/articles/2017/06/how-the-trump-russia-data-machine-games-google-to.html)
  * [Russian Troll Farm Internet Research Agency Has New Meta-Trolling Propaganda Campaign](https://www.thedailybeast.com/russian-troll-farm-internet-research-agency-has-new-meta-trolling-propaganda-campaign?fbclid=IwAR1krE_8-NoeYFpZ4DbGAKaJ7g-rbAskVCEV6-IhVNmoYrZQ7AdNGRppd2g)
@@ -160,32 +160,32 @@ DIY offensive misinformation attacks:
  * [Russian Influence Reached 126 Million Through Facebook Alone - NYTimes.com](https://mobile.nytimes.com/2017/10/30/technology/facebook-google-russia.html?_r=2&referer=https://t.co/7BuuCj22Cv?amp=1)
  * [Hamilton 68: Tracking Putin's Propaganda Push... To America](http://dashboard.securingdemocracy.org/about)
  * [The Agency - The New York Times](https://www.nytimes.com/2015/06/07/magazine/the-agency.html)
- * [https://www.cnbc.com/2019/01/27/ex-google-exec-camille-francois-russian-trolls.html]
- * [https://qz.com/1383624/the-old-school-double-agent-tactics-governments-will-use-to-erode-trust/] - Camille
- * [https://comprop.oii.ox.ac.uk/research/ira-political-polarization/] OII report to congress
- * [https://www.semanticscholar.org/paper/Acting-the-Part%3A-Examining-Information-Operations-Arif-Stewart/534e74dc35bb9abc585cd1856d4c46431c45d369] - Starbird team on IRA Blacklives campaign
+ * <https://www.cnbc.com/2019/01/27/ex-google-exec-camille-francois-russian-trolls.html>
+ * <https://qz.com/1383624/the-old-school-double-agent-tactics-governments-will-use-to-erode-trust/> - Camille
+ * <https://comprop.oii.ox.ac.uk/research/ira-political-polarization/> OII report to congress
+ * <https://www.semanticscholar.org/paper/Acting-the-Part%3A-Examining-Information-Operations-Arif-Stewart/534e74dc35bb9abc585cd1856d4c46431c45d369> - Starbird team on IRA Blacklives campaign
 
 ### China / Asia <a name="aaa-china-asia"></a>
- * [Magic Weapons: China's political influence activities under Xi Jinping | Wilson Center](https://www.wilsoncenter.org/article/magic-weapons-chinas-political-influence-activities-under-xi-jinping)
- * [China's MSS using LinkedIn against the U.S. | CSO Online](https://www.csoonline.com/article/3302164/social-engineering/chinas-mss-using-linkedin-against-the-us.html)
+ * [Magic Weapons: China's political influence activities under Xi Jinping \| Wilson Center](https://www.wilsoncenter.org/article/magic-weapons-chinas-political-influence-activities-under-xi-jinping)
+ * [China's MSS using LinkedIn against the U.S. \| CSO Online](https://www.csoonline.com/article/3302164/social-engineering/chinas-mss-using-linkedin-against-the-us.html)
  * [Myanmar example](https://www.wired.com/story/how-facebooks-rise-fueled-chaos-and-confusion-in-myanmar/)
  * [Facebook Is Disrupting North Korean Hacking Operations - Motherboard](https://motherboard.vice.com/en_us/article/8xvnmv/facebook-is-disrupting-north-korean-hacking-operations?utm_source=mbfb&fbclid=IwAR0O9H0HJZqXEapBU4WzVu4oR0NdH4auIbZca33T840luuCDHFoUcHvpIos)
 
 ### Middle East <a name="aaa-me"></a>
  * [Hamas is Using Apps for Social Engineering](https://threatvector.cylance.com/en_us/home/hamas-is-using-apps-for-social-engineering.html)
  * [Saudis' Image Makers: A Troll Army and a Twitter Insider - The New York Times](https://www.nytimes.com/2018/10/20/us/politics/saudi-image-campaign-twitter.html)
- * [Suspected Iranian Influence Operation Leverages Network of Inauthentic News Sites & Social Media Targeting Audiences in U.S., UK, Latin America, Middle East « Suspected Iranian Influence Operation Leverages Network of Inauthentic News Sites & Social Media Targeting Audiences in U.S., UK, Latin America, Middle East | FireEye Inc](https://www.fireeye.com/blog/threat-research/2018/08/suspected-iranian-influence-operation.html) - also see DFRlab commentary on this [https://medium.com/dfrlab/trolltracker-irans-suspected-information-operation-153fc7b60126] and [https://www.reuters.com/article/us-usa-iran-facebook-exclusive/exclusive-iran-based-political-influence-operation-bigger-persistent-global-idUSKCN1LD2R9]
- * [https://medium.com/dfrlab/trolltracker-outward-influence-operation-from-iran-cc4539684c8d]
+ * [Suspected Iranian Influence Operation Leverages Network of Inauthentic News Sites & Social Media Targeting Audiences in U.S., UK, Latin America, Middle East « Suspected Iranian Influence Operation Leverages Network of Inauthentic News Sites & Social Media Targeting Audiences in U.S., UK, Latin America, Middle East \| FireEye Inc](https://www.fireeye.com/blog/threat-research/2018/08/suspected-iranian-influence-operation.html) - also see DFRlab commentary on this <https://medium.com/dfrlab/trolltracker-irans-suspected-information-operation-153fc7b60126> and <https://www.reuters.com/article/us-usa-iran-facebook-exclusive/exclusive-iran-based-political-influence-operation-bigger-persistent-global-idUSKCN1LD2R9>
+ * <https://medium.com/dfrlab/trolltracker-outward-influence-operation-from-iran-cc4539684c8d>
  * [ISIS Has a Twitter Strategy and It Is Terrifying [Infographic] – Fifth Tribe Stories – Medium](https://medium.com/fifth-tribe-stories/isis-has-a-twitter-strategy-and-it-is-terrifying-7cc059ccf51b)
  * [Online extremism and the communities that sustain it: Detecting the ISIS supporting community on Twitter](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181405)
 
 ### Americas / Others
  * [UPDATED: The HB Gary Email That Should Concern Us All](https://www.dailykos.com/stories/2011/02/16/945768/-UPDATED:-The-HB-Gary-Email-That-Should-Concern-Us-All)
- * Brazil internal [https://www.icfj.org/news/lessons-learned-fact-checking-brazilian-presidential-election]
+ * Brazil internal <https://www.icfj.org/news/lessons-learned-fact-checking-brazilian-presidential-election>
 
 ### Fakenews sites <a name="aaa-fakenews"></a>
  * [Mic on Twitter: "An insider explains how people can readily make money off pushing fake news. The source says it's so easy, anyone can do it - even you. https://t.co/A9os54nQIp"](https://twitter.com/mic/status/926513781416501248)
- * [PolitiFact's guide to fake news websites and what they peddle | PunditFact](http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/)
+ * [PolitiFact's guide to fake news websites and what they peddle \| PunditFact](http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/)
  * [Questionable Sources - Split for CSV export - Google Sheets](https://docs.google.com/spreadsheets/d/1D5Wkvnh5QDa2yllyqyChNiZpGp-FklQZ_88Bd2BocDA/edit?ts=5b16b46b)
  * [BBC World Service - Trending, Mexico's Fake News Problem](https://www.bbc.co.uk/programmes/w3csws6m)
  * [The godfather of fake news - BBC News](https://www.bbc.co.uk/news/resources/idt-sh/the_godfather_of_fake_news)
@@ -198,7 +198,7 @@ Internal groups and individuals
  * [Bitcoin's Biggest Enemy Is Still Fake News And Misinformation - BitStarz](https://www.bitstarz.com/blog/bitcoins-biggest-enemy-is-still-fake-news-and-misinformation)
  * [The Voty Twitter Botnet and The Attack on Senator Al Franken by the Alt-Right Army](https://medium.com/@unhackthevote/the-voty-twitter-botnet-and-the-attack-on-senator-al-franken-by-the-alt-right-army-36860deebea8)
  * [The Social Media Psy-op That Took Down Al Franken](https://www.msn.com/en-us/news/politics/the-social-media-psy-op-that-took-down-al-franken/ar-BBJjJpC?ocid=sf)
- * [Brett Kavanaugh and the Information Terrorists Trying to Reshape America | WIRED](https://www.wired.com/story/information-terrorists-trying-to-reshape-america/)
+ * [Brett Kavanaugh and the Information Terrorists Trying to Reshape America \| WIRED](https://www.wired.com/story/information-terrorists-trying-to-reshape-america/)
  * [Secret Experiment in Alabama Senate Race Imitated Russian Tactics - The New York Times](https://www.nytimes.com/2018/12/19/us/alabama-senate-roy-jones-russia.html)
  * [Discovering truth through lies on the internet - FCC comments analyzed](https://www.gravwell.io/blog/discovering-truth-through-lies-on-the-internet-fcc-comments-analyzed)
  * [Understanding Scientology / Chapter 12: OSA (Office of Special Affairs) -- The Secret CIA of Scientology](http://www.religio.de/books/wakefield/us-12.html)
