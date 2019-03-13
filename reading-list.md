@@ -236,7 +236,7 @@ response
 
 ## Tools <a name="tools"></a>
 ### Conspirator's list:
- * [https://twitter.com/conspirator0/status/1046503540640886784]
+ * <https://twitter.com/conspirator0/status/1046503540640886784>
 
 ### Christopher Bouzy / The troll hunter:
  * [https://makeadverbsgreatagain.org/allegedly/]
