@@ -40,14 +40,14 @@ Put ‘em here!
    * [Countering Russian Social Media Influence](https://www.rand.org/pubs/research_reports/RR2740.html)
  * [Project "Rome" - Campaign Intelligence & Influence Services Proposal](https://int.nyt.com/data/documenthelper/360-trump-project-rome/574d679d1ff58a30836c/optimized/full.pdf#page=1)
  * [SMA White Paper - Blame, Sway, and Vigilante Tactics](https://www.geographicservices.com/application/files/1115/1698/5448/SMA_Blame_Sway_and_Vigilante_Tactics_Implications_for_Planning.pdf)
- * The Weaponized Narrative Initiative library is a curated collection of media: [https://weaponizednarrative.asu.edu/library]
+ * The Weaponized Narrative Initiative library is a curated collection of media: <https://weaponizednarrative.asu.edu/library>
 
 ## Misinfosec articles <a name="misinfosec-articles"></a>
  * Uni Arkansas group (Nitin Agrawal etc):
-   * [Zotero | Groups > Misinformation + Social cyber security](https://www.zotero.org/groups/2156710/misinformation__social_cyber_security)
+   * [Zotero \| Groups > Misinformation + Social cyber security]<https://www.zotero.org/groups/2156710/misinformation__social_cyber_security>
  * Stanford (Herb Lin):
-   * [https://cisac.fsi.stanford.edu/people/herbert_lin]
-   * [Developing Responses to Cyber-Enabled Information Warfare and Influence Operations](https://www.lawfareblog.com/developing-responses-cyber-enabled-information-warfare-and-influence-operations)
+   * <https://cisac.fsi.stanford.edu/people/herbert_lin>
+   * <Developing Responses to Cyber-Enabled Information Warfare and Influence Operations>(https://www.lawfareblog.com/developing-responses-cyber-enabled-information-warfare-and-influence-operations)
    * [https://www.politico.com/newsletters/morning-cybersecurity/2018/12/18/the-interplay-between-russian-disinformation-and-hacking-459226]
  * FireEye (Lee Foster)
     * [https://www.reuters.com/article/us-usa-iran-facebook-exclusive/exclusive-iran-based-political-influence-operation-bigger-persistent-global-idUSKCN1LD2R9]
@@ -205,15 +205,15 @@ Internal groups and individuals
 
 ### Trackers <a name="aaa-trackers"></a>
 tracking
- * [https://twitter.com/conspirator0]
- * [Meet the Indiana dad who hunts Russian trolls - CNNPolitics](https://www.cnn.com/2018/08/13/politics/dad-hunts-russian-trolls/index.html) - also  [https://twitter.com/josh_emerson]  [medium.com/@josh_emerson](https://t.co/FYmb454ujW) and [eye_josh (u/eye_josh) - Reddit](https://old.reddit.com/user/eye_josh)
- * [https://twitter.com/odysseusofwinds] e.g. [Thread by @OdysseusOfWinds: "IDENTIFYING RUSSIAN INFILTRATOR TROLL ACCOUNTS Thread/ During and now after the midterms, we saw the proliferation of Russian Infiltrator Tr […]" #Resistance #FBR #Resisters](https://threadreaderapp.com/thread/1074771844333326336.html?fbclid=IwAR2c7iiqOUlUR21qliQ7dD4olmUpx11rzJxjz5-niBkVcgfDMPR9kgLp52c)
- * [https://twitter.com/fs0c131y]
+ * <https://twitter.com/conspirator0>
+ * [Meet the Indiana dad who hunts Russian trolls - CNNPolitics](https://www.cnn.com/2018/08/13/politics/dad-hunts-russian-trolls/index.html) - also  <https://twitter.com/josh_emerson>  [medium.com/@josh_emerson](https://t.co/FYmb454ujW) and [eye_josh (u/eye_josh) - Reddit](https://old.reddit.com/user/eye_josh)
+ * <https://twitter.com/odysseusofwinds> e.g. [Thread by @OdysseusOfWinds: "IDENTIFYING RUSSIAN INFILTRATOR TROLL ACCOUNTS Thread/ During and now after the midterms, we saw the proliferation of Russian Infiltrator Tr […]" #Resistance #FBR #Resisters](https://threadreaderapp.com/thread/1074771844333326336.html?fbclid=IwAR2c7iiqOUlUR21qliQ7dD4olmUpx11rzJxjz5-niBkVcgfDMPR9kgLp52c)
+ * <https://twitter.com/fs0c131y>
 
 response
- * [The Stylish Socialist Who Is Trying to Save YouTube from Alt-Right Domination | The New Yorker](https://www.newyorker.com/culture/persons-of-interest/the-stylish-socialist-who-is-trying-to-save-youtube-from-alt-right-domination?utm_brand=tny&utm_source=facebook&utm_social-type=owned&mbid=social_facebook&utm_medium=social&fbclid=IwAR2-2GDRxRued5iv0GPvThwz-wsBvQXldUL7_9JTQzF5hEjNm6WPh2u8EAc)
+ * [The Stylish Socialist Who Is Trying to Save YouTube from Alt-Right Domination \| The New Yorker](https://www.newyorker.com/culture/persons-of-interest/the-stylish-socialist-who-is-trying-to-save-youtube-from-alt-right-domination?utm_brand=tny&utm_source=facebook&utm_social-type=owned&mbid=social_facebook&utm_medium=social&fbclid=IwAR2-2GDRxRued5iv0GPvThwz-wsBvQXldUL7_9JTQzF5hEjNm6WPh2u8EAc)
  * [Elves vs Trolls - fighting disinformation in Lithuania - YouTube](https://www.youtube.com/watch?v=KDsrwSX7piw)
- * [Baltic "elves" launch online database of pro-Russian trolls to tackle propaganda |Euromaidan Press |](http://euromaidanpress.com/2018/01/20/baltic-elves-launch-vatnikas-online-database-of-pro-russian-trolls-to-tackle-propaganda/)
+ * [Baltic "elves" launch online database of pro-Russian trolls to tackle propaganda \|Euromaidan Press \|](http://euromaidanpress.com/2018/01/20/baltic-elves-launch-vatnikas-online-database-of-pro-russian-trolls-to-tackle-propaganda/)
  * [Amnesty Decoders - Strike Tracker](https://decoders.amnesty.org/projects/strike-tracker?fbclid=IwAR2ESocqpm1yVCMHvlEFEJnzu80A7_ix_4C64R5tq1V52l9rwrgqB-N5NxE)
  * [Facebook Created a Human Crisis Team After Algorithms Failed It](https://gizmodo.com/facebook-created-a-human-crisis-team-after-algorithms-f-1827075627)
  * [The Daily Caller Names Founder of Sleeping Giants, Which Organized Breitbart Advertiser Boycotts – Adweek](https://www.adweek.com/agencies/the-daily-caller-names-founder-of-sleeping-giants-which-organized-breitbart-advertiser-boycotts/)
@@ -239,13 +239,12 @@ response
  * <https://twitter.com/conspirator0/status/1046503540640886784>
 
 ### Christopher Bouzy / The troll hunter:
- * [https://makeadverbsgreatagain.org/allegedly/]
- * [http://botsentinel.com/]
+ * <https://makeadverbsgreatagain.org/allegedly/>
+ * <http://botsentinel.com/>
 
 ### Graphistry
- * A brief tutorial to make your regular CSV files Graphistry-ready via Hypergraph [https://labs.graphistry.com/docs/setup/notebook/notebook_2.html]
+ * A brief tutorial to make your regular CSV files Graphistry-ready via Hypergraph <https://labs.graphistry.com/docs/setup/notebook/notebook_2.html>
 
 ### twarc
- * (https://labsblog.f-secure.com/2018/02/16/searching-twitter-with-twarc/)
- * https://github.com/IHJpc2V1cCAK/socint
-
+ * <https://labsblog.f-secure.com/2018/02/16/searching-twitter-with-twarc/>
+ * <https://github.com/IHJpc2V1cCAK/socint>
