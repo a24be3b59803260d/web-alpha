@@ -246,6 +246,6 @@ response
  * A brief tutorial to make your regular CSV files Graphistry-ready via Hypergraph [https://labs.graphistry.com/docs/setup/notebook/notebook_2.html]
 
 ### twarc
- * [https://labsblog.f-secure.com/2018/02/16/searching-twitter-with-twarc/]
- * [https://github.com/IHJpc2V1cCAK/socint]
+ * (https://labsblog.f-secure.com/2018/02/16/searching-twitter-with-twarc/)
+ * https://github.com/IHJpc2V1cCAK/socint
 
