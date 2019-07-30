@@ -7,9 +7,28 @@
  * Globals
  */
 
-header_wrap {
+#header_wrap .inner {
   display: none;
+  width: 15%;
 }
+
+.outer {
+    width: 100%;
+}
+
+#footer_wrap {
+    background: #212121;
+    display: block;
+    width: 15%;
+    visibility: hidden;
+}
+
+#main_content_wrap {
+    background: linear-gradient(to top, #373737, #212121);
+    border-top: 0px solid #111;
+    border-bottom: 0px solid #111;
+}
+
 
 /* Links */
 a,
