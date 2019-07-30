@@ -36,9 +36,11 @@
 header .inner {
   display: none;
 }
+h1, h2, h3, h4, h5, h6 {
 
-h2 {
-  color: #ddd;
+    margin: 10px 0;
+    font-weight: 700;
+    color: #dddddd;
 }
 
 /* Links */
